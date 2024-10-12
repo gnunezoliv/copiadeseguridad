@@ -104,3 +104,9 @@ html body {
         padding-top: 60px; /* Padding reducido para pantallas pequeñas */
     }
 }
+
+/*quitar letras azules al logo en la nav bar*/
+a:hover {
+    color: #2A003A;
+    text-decoration: none;
+}

@@ -53,3 +53,8 @@
     font-weight: 600;
 }
 
+/*quitar letras azules al logo en la nav bar*/
+a:hover {
+    color: #2A003A;
+    text-decoration: none;
+}
